@@ -1,0 +1,16 @@
+{
+  "appId": "ru.goalieteam.apex",
+  "appName": "APEX",
+  "webDir": "www",
+  "ios": {
+    "backgroundColor": "#000000",
+    "launchShowDuration": 800,
+    "limitsNavigationsToAppBoundDomains": false
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon",
+      "iconColor": "#3dff8c"
+    }
+  }
+}
